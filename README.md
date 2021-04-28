@@ -32,7 +32,7 @@ keunwoo's Thning Note
 3. Devops
    - Linux, Docker, Kubernetes
 4. 자격증
-   - SQLP, CCNA, CKA, RC, 리눅스마스터1급
+   - SQLP, CCNA, CKA, R, 리눅스마스터1급
 5. 알고리즘
    - C++ 기본 자료구조 및 다양한 예제 연습
 6. 프로젝트 
