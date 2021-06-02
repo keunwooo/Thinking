@@ -49,3 +49,4 @@ keunwoo's Thning Note
 
 ---
 
+피곤하다 근데 해야한다.
