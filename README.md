@@ -30,6 +30,7 @@ keunwoo's Thning Note
    - Go 언어 API 구축 연습
 3. Devops
    - CI/CD 테라폼/Ansible 숙련
+   - 관련 인강 완독하기 (통합)
 4. 자격증
    - CKA (시험볼 시간이 없었음)
 5. 프로젝트 
